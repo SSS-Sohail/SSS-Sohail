@@ -1,7 +1,7 @@
 - 👋, I’m @SSS-Sohail
 -  I’m interested in connecting with other associates and building good projects 
 - 🌱 I’m currently learning about git and github,applying coding for real world 
-- 💞️ I’m looking to collaborate on interesting and beneficial projects with c,c++,python languages which can build and develop our logic.
+- 💞️ I’m looking to collaborate on interesting and beneficial projects
 - 📫 How to reach me ...
 - My Linkedin profile:
 www.linkedin.com/in/syed-sameer-sohail-2596b9242
